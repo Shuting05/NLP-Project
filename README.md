@@ -1,5 +1,5 @@
 # NLP-Project
-Textual Analysis for Comments from NetEase Cloud - a Chinese music streaming service
+Textual Analysis for Comments from NetEase Cloud Music - a Chinese music streaming service
 
 ### Including 
 * Python codes for data manipulation: word clouds, LDA models, clustering, sentiment analysis with radar plots
