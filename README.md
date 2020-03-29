@@ -6,4 +6,4 @@ Textual Analysis for Comments from NetEase Cloud Music - a Chinese music streami
 * Final report 
 
 ### Data
-Comments used in this project were scrapted by modifying sample codes from: https://github.com/zyingzhou/music163-spiders/blob/master/get_comments.py
+Comments used in this project were scraped by modifying sample codes from: https://github.com/zyingzhou/music163-spiders/blob/master/get_comments.py
