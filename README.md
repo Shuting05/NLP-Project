@@ -1,5 +1,6 @@
 # NLP-Project
 Textual Analysis for Comments from NetEase Cloud Music - a Chinese music streaming service
+
 This is a term project for Natural Language Processing course at the University of Chicago
 
 ### Including 
